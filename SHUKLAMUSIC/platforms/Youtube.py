@@ -18,8 +18,8 @@ from py_yt import VideosSearch
 from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message
 
-from AviaxMusic import LOGGER
-from AviaxMusic.utils.formatters import time_to_seconds
+from SHUKLAMUSIC import LOGGER
+from SHUKLAMUSIC.utils.formatters import time_to_seconds
 
 YOUR_API_URL = None
 FALLBACK_API_URL = "https://shrutibots.site"
