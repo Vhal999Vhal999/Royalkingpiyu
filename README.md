@@ -24,7 +24,32 @@
 
 </h3>
  
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Hdjssbsisbsbsshs/Royalkingpiyu <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Royalbot213/Royalkingpiyu"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+
+
+
+<h3 align="center">
+<a href="https://www.youtube.com/@ShivanshuDeo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
+
+<p align="center">
+  <img src="https://graph.org/file/29034d07965a189638aa9.jpg">
+</p>
+
+<h3 align="center">
+    ─「 ᴅᴇᴠʟᴏᴘᴇʀ  」─
+</h3>
+
+<p align="center">
+<a href="https://t.me/+Wr5PYab_vmgyMmRl"><img src="https://img.shields.io/badge/-Owner-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+<h3 align="center">
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
+</h3>
+
+<p align="center">
+<a href="https://t.me/+PjJLYgbawLc5ZWZl"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 
